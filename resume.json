@@ -1,74 +1,90 @@
 {
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://www.thispersondoesnotexist.com/image",
-    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Ilyas Rabaa",
+    "email": "votre@email.com",
+    "phone": "+1234567890",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "US"
+      "city": "Ain Sebaa",
+      "country": "Maroc"
     }
   },
-
-  "references": [
+  "education": [
     {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
-    },
-    {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+      "institution": "Université FSJES Ain Sebaa",
+      "area": "Marketing et Commerce",
+      "studyType": "Licence",
+      "endDate": "2023"
     }
   ],
-
   "work": [
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Millions of sites use the CDN in production"
-      ],
-      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "company": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2018-01-08",
-      "endDate": "2020-09-08"
+      "position": "En recherche d'emploi",
+      "company": "En cours",
+      "startDate": "2023",
+      "summary": "Développement de compétences en marketing, commerce et e-commerce."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Auto-marketing des produits Ola Internet",
+      "description": "Mise en œuvre de projets d'auto-marketing pour les produits Ola Internet."
     },
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Millions of sites use the CDN in production"
-      ],
-      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "company": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2015-02-07",
-      "endDate": "2018-01-01"
+      "name": "Projets dans l'électronique, design publicitaire, logos commerciaux",
+      "description": "Réalisations dans l'électronique, design publicitaire et création de logos commerciaux."
     },
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Millions of sites use the CDN in production"
-      ],
-      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "company": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2014-09-01",
-      "endDate": "2015-01-01"
+      "name": "Informatique - Découverte et analyse de problèmes électroniques",
+      "description": "Autodidacte en science des données et intelligence artificielle."
+    }
+  ],
+  "skills": [
+    {
+      "name": "marketing",
+      "level": "Avancé"
+    },
+    {
+      "name": "commerce",
+      "level": "Avancé"
+    },
+    {
+      "name": "eCommerce",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "electronique",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "scienceDesDonnees",
+      "level": "Débutant"
+    },
+    {
+      "name": "intelligenceArtificielle",
+      "level": "Débutant"
+    },
+    {
+      "name": "francais",
+      "level": "Courant"
+    },
+    {
+      "name": "anglais",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "arabe",
+      "level": "Courant"
     }
   ],
   "interests": [
     {
-      "name": "Gardening"
+      "name": "Voyages"
     },
     {
-      "name": "Gardening"
+      "name": "Musique"
     },
     {
-      "name": "Gardening"
+      "name": "Football"
     }
   ]
 }
